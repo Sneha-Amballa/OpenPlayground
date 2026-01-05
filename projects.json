@@ -9,6 +9,13 @@
     "coverClass": "palette-cover"
   },
   {
+  "name":"URL Shortener",
+  "description":"Frontend-only URL shortener with redirection, click tracking, and localStorage persistence.",
+  "path":"projects/url-shortener",
+  "tags":["HTML","CSS","JavaScript","Utility"]
+},
+
+  {
     "title": "Infinite Runner",
     "category": "action",
     "description": "Procedural neon runner with parallax.",
