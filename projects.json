@@ -977,7 +977,17 @@
   "link": "./projects/Mood_Driven_Music_UI/index.html",
   "icon": "ri-music-2-line",
   "coverStyle": "background: linear-gradient(135deg, #1f2933 0%, #4c1d95 100%); color:#f5f3ff;"
+},
+{
+  "title": "Life Choice Simulator",
+  "category": "utility",
+  "description": "Make life choices and reflect on hidden impacts like stress, growth, and happiness.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/Life_Choice_Simulator/index.html",
+  "icon": "ri-route-line",
+  "coverStyle": "background: linear-gradient(135deg, #0f172a 0%, #334155 100%); color:#f8fafc;"
 }
+
 
 
 
