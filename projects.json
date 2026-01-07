@@ -8,6 +8,13 @@
   "link": "./projects/image-preview-uploader/index.html",
   "icon": "ri-image-add-line",
   "coverClass": "image-preview-cover"
+  "title": "Stack vs Queue Visualizer",
+  "category": "utility",
+  "description": "Interactive visualizer to understand Stack (LIFO) and Queue (FIFO) operations with animations and explanations.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/StackvsQueue_Visualizer/index.html",
+  "icon": "ri-stack-line",
+  "coverStyle": "background: linear-gradient(135deg, #3498db 0%, #9b59b6 100%); color: white;"
 }
 ,
   {
@@ -33,6 +40,20 @@
       "JS"
     ],
     "link": "./projects/AI-ChatBot/index.html",
+    "icon": "ri-robot-line",
+    "coverStyle": "background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;"
+  },
+
+  {
+    "title": "Mood Tracker",
+    "category": "Fun",
+    "description": " a simple daily emotion logging application that allows users to record their mood using emoji-based inputs. Each mood entry is saved with the current date and displayed in a history list. The application uses browser localStorage to persist data, making the mood history available even after refreshing the page.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/moodtracker/index.html",
     "icon": "ri-robot-line",
     "coverStyle": "background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); color: white;"
   },
@@ -846,16 +867,41 @@
     "coverStyle": "background: #1e293b; color: #22d3ee;"
   },
   {
-    "title": "Word Memory Game",
-    "category": "game",
-    "description": "Test your word memory skills.",
+    "title": "Instagram Bio Generator",
+    "category": "utility",
+    "description": "Generate random Instagram bio suggestions with emojis and vibes.",
     "tech": [
       "HTML",
       "CSS",
       "JS"
     ],
-    "link": "./projects/word-memory-game/index.html",
-    "icon": "ri-file-word-line",
-    "coverStyle": "background: #be185d; color: white;"
+    "link": "./projects/Insta_bio_suggesstion/index.html",
+    "icon": "ri-user-line",
+    "coverStyle": "background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); color: #7c2d12;"
+  },
+ {
+  "title": "Hangman Game",
+  "category": "game",
+  "description": "Guess the hidden word one letter at a time before running out of attempts.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/hangman-game/index.html",
+  "icon": "ri-keyboard-line",
+  "coverClass": "hangman-cover"
+}
+,
+  {
+    "title": "Particle Text",
+    "category": "game",
+    "description": "Convert your text into particle text!",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS",
+      "Canvas"
+    ],
+    "link": "./projects/particle-text convert/index.html",
+    "icon": "ri-cursor-line",
+    "coverClass": "particle-cover"
   }
+
 ]
