@@ -1,4 +1,28 @@
 [
+
+  {
+  "title": "Image Preview Uploader",
+  "category": "utility",
+  "description": "Preview and validate images before upload with drag and drop support.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/image-preview-uploader/index.html",
+  "icon": "ri-image-add-line",
+  "coverClass": "image-preview-cover"
+},
+  {
+    "title": "Stack vs Queue Visualizer",
+    "category": "utility",
+    "description": "Interactive visualizer to understand Stack (LIFO) and Queue (FIFO) operations with animations and explanations.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/StackvsQueue_Visualizer/index.html",
+    "icon": "ri-stack-line",
+  "coverStyle": "background: linear-gradient(135deg, #3498db 0%, #9b59b6 100%); color: white;"
+}
+,
   {
     "title": "Human Error Playground",
     "category": "experimental",
@@ -77,6 +101,20 @@
     "icon": "ri-booklet-line",
     "coverStyle": "background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); color:#78350f;"
   },
+  {
+    "title": "Github Profile Finder",
+    "category": "utility",
+    "description": "Find and view GitHub profiles with user details and repositories.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/github-finder/index.html",
+    "icon": "ri-timer-flash-line",
+    "coverStyle": "background: #4f46e5; color: white;"
+  },
+
   {
     "title": "Personal Diary",
     "category": "utility",
@@ -220,6 +258,13 @@
     "icon": "ri-route-line",
     "coverStyle": "background: #312e81; color: #a5b4fc;"
   },
+  {
+  "name":"URL Shortener",
+  "description":"Frontend-only URL shortener with redirection, click tracking, and localStorage persistence.",
+  "path":"projects/url-shortener",
+  "tags":["HTML","CSS","JavaScript","Utility"]
+},
+
   {
     "title": "Infinite Runner",
     "category": "game",
@@ -1012,9 +1057,19 @@
       "CSS",
       "JS"
     ],
-    "link": "./projects/Insta_bio_suggesstion/index.html",
-    "icon": "ri-user-line",
-    "coverStyle": "background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); color: #7c2d12;"
+    "link": "./projects/word-memory-game/index.html",
+    "icon": "ri-file-word-line",
+    "coverStyle": "background: #be185d; color: white;"
+  } ,
+  {
+  "title": "Advanced Text Case Converter",
+  "category": "utility",
+  "description": "Convert text into multiple cases with live processing and shortcuts.",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/text-case-converter/index.html",
+  "icon": "ri-text",
+  "coverClass": "text-case-cover"
+
   },
   {
     "title": "Hangman Game",
@@ -1071,19 +1126,6 @@
     "coverStyle": "background: linear-gradient(135deg, #020617 0%, #4f46e5 100%); color:#e0e7ff;"
   },
   {
-    "title": "Visual Rhythm Game",
-    "category": "game",
-    "description": "Tap in sync with animated visual beats in a silent, arcade-style rhythm game.",
-    "tech": [
-      "HTML",
-      "CSS",
-      "JS"
-    ],
-    "link": "./projects/Visual_Rhythm_Game/index.html",
-    "icon": "ri-pulse-line",
-    "coverStyle": "background: linear-gradient(135deg, #020617 0%, #4f46e5 100%); color:#e0e7ff;"
-  },
-  {
     "title": "One Button Boss Fight",
     "category": "game",
     "description": "Defeat a boss using a single button with timing-based attacks and dodges.",
@@ -1109,7 +1151,71 @@
     "icon": "ri-grid-fill",
     "coverStyle": "background: linear-gradient(135deg, #10b981 0%, #3b82f6 100%); color: white;"
   },
+  {
+    "title": "Random Idea Generator",
+    "category": "utility",
+    "description": "Generate creative ideas instantly with smooth animations and a clean UI.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "link": "./projects/Random_Idea_Generator/index.html",
+    "icon": "ri-lightbulb-flash-line",
+    "coverStyle": "background:linear-gradient(135deg,#667eea,#764ba2); color:white"
+  },
+  {
+    "title": "AI Git Commit Generator",
+    "category": "utility",
+    "description": "AI-powered suggestions based on your code changes.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "link": "./projects/GitCommit/index.html",
+    "icon": "ri-checkbox-line",
+    "coverStyle": "background:#afdfff; color:#000;"
+  },
+  {
+    "title": "PDF Merger",
+    "category": "utility",
+    "description": "Merge multiple PDF files into one document directly in your browser.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/MergeDoc/index.html",
+    "icon": "ri-file-copy-2-line",
+    "coverStyle": "background:#7a1050; color:white;"
+  },
+  {
+    "title": "Medicine Reminder App",
+    "category": "utility",
+    "description": "Set and manage medicine reminders with notifications.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Medicine reminder/index.html",
+    "icon": "ri-file-copy-2-line",
+    "coverStyle": "background:#7a1050; color:white;"
+  },
+  {
+    "title": "Memory Challenge (ABC)",
+    "category": "game",
+    "description": "Test your memory by matching cards within limited moves and time.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "link": "./projects/memory-flip-game/index.html",
+    "icon": "ri-brain-line",
+    "coverStyle": "background:#8b5cf6; color:white;"
+  },
+
   
+  {
+  "title": "Drawing Canvas",
+  "category": "game",
+  "description": "A simple interactive canvas that lets users draw freely with adjustable brush size and color.",
+  "tech": ["HTML", "CSS", "JavaScript", "Canvas"],
+  "link": "./projects/simple-drawing-canvas/index.html",
+  "icon": "ri-brush-line",
+  "coverClass": "drawing-canvas-cover"
+},
+{
+  "title": "Online Food Delivery App",
+  "category": "utility",
+  "description": "Responsive food ordering UI with cart functionality",
+  "tech": ["HTML", "CSS", "JS"],
+  "link": "./projects/online-food-delivery/index.html",
+  "icon": "ri-restaurant-line",
+  "coverClass": "online-food-cover"
+},
   {
     "title": "Pathfinding Visualizer",
     "category": "utility",
@@ -1120,3 +1226,5 @@
     "coverStyle": "background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); color: #6366f1;"
   }
 ]
+
+
