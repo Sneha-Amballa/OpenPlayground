@@ -8,12 +8,18 @@
   "link": "./projects/image-preview-uploader/index.html",
   "icon": "ri-image-add-line",
   "coverClass": "image-preview-cover"
-  "title": "Stack vs Queue Visualizer",
-  "category": "utility",
-  "description": "Interactive visualizer to understand Stack (LIFO) and Queue (FIFO) operations with animations and explanations.",
-  "tech": ["HTML", "CSS", "JS"],
-  "link": "./projects/StackvsQueue_Visualizer/index.html",
-  "icon": "ri-stack-line",
+},
+  {
+    "title": "Stack vs Queue Visualizer",
+    "category": "utility",
+    "description": "Interactive visualizer to understand Stack (LIFO) and Queue (FIFO) operations with animations and explanations.",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/StackvsQueue_Visualizer/index.html",
+    "icon": "ri-stack-line",
   "coverStyle": "background: linear-gradient(135deg, #3498db 0%, #9b59b6 100%); color: white;"
 }
 ,
@@ -1050,13 +1056,7 @@
   "link": "./projects/text-case-converter/index.html",
   "icon": "ri-text",
   "coverClass": "text-case-cover"
-}
-    "link": "./projects/Insta_bio_suggesstion/index.html",
-    "icon": "ri-user-line",
-    "coverStyle": "background: linear-gradient(135deg, #f3e8ff 0%, #e9d5ff 100%); color: #7c2d12;"
- add-url-shortener
-  }
-]
+
   },
   {
     "title": "Hangman Game",
@@ -1166,6 +1166,15 @@
     "coverStyle": "background:#7a1050; color:white;"
   },
   {
+    "title": "Medicine Reminder App",
+    "category": "utility",
+    "description": "Set and manage medicine reminders with notifications.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/Medicine reminder/index.html",
+    "icon": "ri-file-copy-2-line",
+    "coverStyle": "background:#7a1050; color:white;"
+  },
+  {
     "title": "Memory Challenge (ABC)",
     "category": "game",
     "description": "Test your memory by matching cards within limited moves and time.",
@@ -1175,7 +1184,7 @@
     "coverStyle": "background:#8b5cf6; color:white;"
   },
 
-  ,
+  
   {
   "title": "Drawing Canvas",
   "category": "game",
@@ -1184,7 +1193,7 @@
   "link": "./projects/simple-drawing-canvas/index.html",
   "icon": "ri-brush-line",
   "coverClass": "drawing-canvas-cover"
-}
+},
 {
   "title": "Online Food Delivery App",
   "category": "utility",
@@ -1193,10 +1202,6 @@
   "link": "./projects/online-food-delivery/index.html",
   "icon": "ri-restaurant-line",
   "coverClass": "online-food-cover"
-}
+}]
 
 
-]
-main
-
-]
