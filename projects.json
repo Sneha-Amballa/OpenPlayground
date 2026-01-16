@@ -3356,6 +3356,14 @@
     "coverStyle": "background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); color: #212121;"
   },
   {
+  "title": "My Stylish To-Do-List",
+  "category": "utility",
+  "description": "Track your everyday tasks, modify & operate with style.",
+  "tech": ["HTML", "CSS", "JavaScript"],
+  "link": "./projects/my-stylish-to-do-list/index.html",
+  "icon": "ri-todo-fill",
+  "coverStyle": "background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;"
+}
     "title": "Chess vs Computer",
     "category": "game",
     "description": "Play classic chess against a strong computer with full rules and clean UI.",
