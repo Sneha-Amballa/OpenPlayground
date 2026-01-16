@@ -323,6 +323,19 @@
     "icon": "ri-grid-line",
     "coverClass": "tictactoe-cover"
   },
+    {
+    "title": "Dianosur",
+    "category": "puzzle",
+    "description": "dianosur game ",
+    "tech": [
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "link": "./projects/dianosur/index.html",
+    "icon": "ri-dinosaur-line",
+    "coverClass": "quiz-cover"
+  },
   {
     "title": "Fun balloon popping game",
     "category": "game",
